@@ -1,1 +1,14 @@
+# Intro to arguments
 
+
+This challenge basicallly explores how to invoke a command with arguments. The shell parses the input into 
+commands(the first word of input) and arguments(the subsequent words of the input). As per given the command  
+is hello and the argument is hackers. The given set of statements could be used. 
+
+Connected!
+hacker@hello~intro-to-arguments:~$ hello hackers
+Success! Here is your flag:
+pwn.college{0l5kpAg4KX3CfhF7L8uh6vsDMrj.dhjNyUDL0kDO0czW}
+
+
+The given command with arguments is invoked.
